@@ -1,6 +1,6 @@
 ## My Next.js
 
-### 1. [Next Landing](https://github.com/lypsisrudiansyah/next-landing.git)
+### 1. [Next Landing (currently un-public repo)](https://github.com/lypsisrudiansyah/next-landing.git)
 
 https://github.com/user-attachments/assets/56efa168-6c18-4f8d-9a1f-bc24831c6313
 
